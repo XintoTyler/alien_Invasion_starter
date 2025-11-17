@@ -3,7 +3,7 @@ File Name: Lab12_TylerFowsantia-1
 
 Author: Tyler Fowsantia
 
-Purpose: Create
+Purpose: Creating Galaga style game using pygame-ce
 
 Date: 11/16/2025
 """
